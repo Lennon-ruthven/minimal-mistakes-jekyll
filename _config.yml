@@ -82,12 +82,12 @@ analytics:
 
 
 # Site Author
-author:
-  name             : ""
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+author: 
+  name             : "Lennon Ruthven"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Fitness, Self-development & Occutlism"
   location         : "Corby"
-  email            :
+  email            : "Lennonruthven@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/lennonruthven"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://www.twitter.com/lennonruthven"
   vine             :
   weibo            :
   xing             :
