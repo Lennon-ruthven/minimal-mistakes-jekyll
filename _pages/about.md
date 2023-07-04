@@ -9,6 +9,6 @@ My relentless fascination lies in unravelling the concealed dimensions that ofte
 
 This deep passion for the hidden world has propelled me on a lifelong metaphysical journey, driven by an unwavering pursuit of truth.
 
-I prioritize living in harmony with nature and have conquered addictions, maintain a pescatarian diet, and engaged in calisthenics for peak fitness.
+I prioritize living in harmony with nature and practice calisthenics for peak fitness.
 
 My aim is to embrace the mysteries of the universe, honour the physical vessel, and embrace the potential for growth, transformation, and joy.
